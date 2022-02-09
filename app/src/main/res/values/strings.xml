@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pomodoro app</string>
+    <string name="task">Enter your task here</string>
+</resources>
